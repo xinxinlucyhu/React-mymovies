@@ -1,0 +1,20 @@
+.div-board {
+  background-image: url(https://cdn.pixabay.com/photo/2015/12/08/00/26/desk-1081708_1280.jpg)
+ 
+}
+  .toppart{
+    height:90%vh;
+    margin-bottom:100px;
+  }
+  .add {
+    margin: 5px;
+  }
+  
+  .jumbotron{
+    background-image: url(https://cdn.pixabay.com/photo/2015/12/08/00/26/desk-1081708_1280.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+
+  
